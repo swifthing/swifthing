@@ -1,4 +1,6 @@
 ### Swifthing : Swift and stuff 👋
+### swifthing.com
+### twitter.com/swifthing
 
 
 
